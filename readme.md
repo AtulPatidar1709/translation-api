@@ -1,6 +1,3 @@
-# Demo image
-![BANANA]
-
 
 # Tech Stacks
 * HTML
@@ -13,7 +10,9 @@
 * Banana Talk is a fun translation app which takes the input and converts into minion language
 
 # Demo
-* Please click the below link to try the application
+* Please click the below link to try the application 
+
+# https://banatalk.netlify.app/
 
 
 # Features
