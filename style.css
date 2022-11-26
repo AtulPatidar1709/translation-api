@@ -62,7 +62,7 @@ main {
   margin-bottom: 16px;
 }
 
-#translate-btn {
+#translate-btn1,#translate-btn2 {
   background: var(--black);
   color: var(--white);
   padding: 12px 24px;
@@ -73,7 +73,7 @@ main {
   margin-bottom: 24px;
 }
 
-#translate-btn:hover {
+#translate-btn1 #translate-btn2 :hover {
   background: var(--darkGrey);
   transition: 0.1s;
 }
