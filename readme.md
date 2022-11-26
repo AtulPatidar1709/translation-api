@@ -12,7 +12,7 @@
 # Demo
 - Please click the below link to try the application 
 
-# https://banatalk.netlify.app/
+# https://translationapi.netlify.app/
 
 
 # Features
