@@ -8,6 +8,8 @@
 
 # About
 - Banana Talk is a fun translation app which takes the input and converts into minion language
+- Roman Number is a fun translation app which takes the input and converts Number into Roman language
+
 
 # Demo
 - Please click the below link to try the application 
@@ -19,4 +21,5 @@
 - Take user's input
 - Translate the input
 - Displays the output in minion language
+- Displays the output in Roman language
 
