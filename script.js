@@ -7,7 +7,7 @@ var outputText = document.querySelector("#output-text");
 
 const baseURL = "https://api.funtranslations.com/translate/minion.json";
 
-const secondURL = "https://api.funtranslations.com/translate/emoji.json";
+const secondURL = "https://api.funtranslations.com/translate/roman-numerals.json";
 
 function getTranslationURL(inputText) {
     return baseURL + "?" + "text=" + inputText;
