@@ -20,6 +20,5 @@
 # Features
 - Take user's input
 - Translate the input
-- Displays the output in minion language
 - Displays the output in Roman language
 
