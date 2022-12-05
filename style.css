@@ -17,7 +17,7 @@
 
 body {
   font-family: "Varela Round";
-  background: var(--yellow);
+  background: #5e8fb9;
   color: var(--black);
   padding: 1rem;
 }
@@ -118,6 +118,7 @@ main {
 
 #footer {
   color:#00b1d2ff;
+  background-color: #5e8fb9;
   /* padding-top: 10px; */
     font-size: large !important;
     bottom: 0;
@@ -127,11 +128,11 @@ main {
 #footer #copyright {
   margin-top: 0.5em;
   font-weight: 500;
-  color: #7d7d7d;
+  color: #ffffff;
   font-size: 15px;
 }
 .footer-title {
-  color: #7d7d7d;
+  color: #ffffff;
   font-size: 20px;
   /* padding: 5px; */
   margin-bottom: 10px;
